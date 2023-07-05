@@ -1,0 +1,2 @@
+# chatroom
+用springboot创建的基于websocket的聊天室，用户登录验证使用jwt生成的token
